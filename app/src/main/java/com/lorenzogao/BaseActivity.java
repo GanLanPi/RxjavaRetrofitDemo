@@ -17,7 +17,7 @@ public class BaseActivity extends AppCompatActivity {
 
     /**
      * 上限
-     * @param clazz
+     * @param clazz https://github.com/LorenzoGao/RxJavaRetrofitDemo.git
      */
 
     public void startActivitys(Class<? extends Activity> clazz) {
